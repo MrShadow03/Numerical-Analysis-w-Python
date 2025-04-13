@@ -21,9 +21,9 @@ $$
 - **Relative Error:**  
   The absolute error divided by the true value, providing a sense of the error's size relative to the true value.
   
-  $$
+  \[
   \text{Relative Error} = \frac{\text{Absolute Error}}{|\text{True Value}|}
-  $$
+  \]
 
 **Usage:**
 
