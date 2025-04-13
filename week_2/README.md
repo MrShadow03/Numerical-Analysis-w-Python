@@ -14,9 +14,9 @@ Demonstrates how to calculate absolute and relative errors between an approximat
 - **Absolute Error:**  
   The absolute difference between the true value and the approximate value.
   
-    $$
-    \text{Absolute Error} = | \text{True Value} - \text{Approximate Value} |
-    $$
+$$
+\text{Absolute Error} = | \text{True Value} - \text{Approximate Value} |
+$$
 
 - **Relative Error:**  
   The absolute error divided by the true value, providing a sense of the error's size relative to the true value.
